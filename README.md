@@ -6,6 +6,6 @@
  3. PyAutoGui
  
  #Dev info:
- Navid Bin Ahmed
- navid_bin_ahmed@yahoo.com
+ Navid Bin Ahmed,
+ navid_bin_ahmed@yahoo.com,
  navidbinahmed.com
