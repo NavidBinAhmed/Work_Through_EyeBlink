@@ -5,6 +5,9 @@
  2. Media Pipe
  3. PyAutoGui
  
+ Tools:
+ WebCam
+ 
  #Dev info:
  Navid Bin Ahmed,
  navid_bin_ahmed@yahoo.com,
