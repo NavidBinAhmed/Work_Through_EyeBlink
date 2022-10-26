@@ -1,4 +1,4 @@
-﻿# Work_Through_EyeBlink is a python application to control computer mouse pointer through eye movement and blinks
+﻿# Work_Through_EyeBlink is a Computer Vision application using Python to control computer mouse pointer through eye movement and blinks
  
  #Required Packages (instal first):
  1. OpenCV Contnb Python (Open Computer Vision Library)
